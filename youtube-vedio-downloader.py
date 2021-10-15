@@ -1,4 +1,3 @@
-import time
 from pytube import YouTube
 from pytube.cli import on_progress
 
@@ -21,15 +20,3 @@ while True:
 		break
 	else:
 		print("please choose....(y/n)")
-
-
-
-
-
-
-
-
-
-
-
-
